@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">new_task</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="message">wecome!</string>
+    <string name="error">Don\'t leave the field empty</string>
+</resources>
